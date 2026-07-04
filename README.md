@@ -1,31 +1,59 @@
-<img src="mercwar_top-bnr112.png">
+
+
+<a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Constellation/index.html">
+<img 
+    src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/refs/heads/main/Version%207/image_d2a07390.png" 
+    alt="Mercwar Constellation" 
+    style="width:100%; height:auto;"
+/>
+</a>
+
 ---
 
-# ⚔️ Mercwar's Avis News Cyber-Node
+# ✨ Mercwar's Avis News Cyber-Node
+
+<a href="https://mercwar01.byethost3.com/AVIS-NEWS">
+<img src="mercwar_top-bnr112.png" alt="Mercwar Avis News Banner">
+</a>
+
+---
 
 **🔥 Read what the contractors read.**  
-Mercwar's Avis News is a **classified-grade RSS intelligence dashboard** and **Top 10 custom search aggregator**. Built for operators, engineers, and insiders, it delivers **real-time situational awareness** across frontier tech, cyber defense, and tactical procurement.
 
-🌐 **Live Deployment:** [Cyborg Avis News](https://mercwar01.byethost3.com/AVIS-NEWS) 
+- Mercwar's Avis News is a **classified-grade RSS intelligence dashboard.** 
+- **Top 10 custom search aggregator.**
+- Built for operators, engineers, and insiders.
+- It delivers **real-time situational awareness** across frontier tech, cyber defense, and tactical procurement.
+- No Setup or No software download Required !
+- It's FREE!
+  
+🌐 **Live Deployment:** [Cyborg Avis News](https://mercwar01.byethost3.com/AVIS-NEWS)  
 
 ---
 
 ## 🖼️ Interface Screenshots
 
-### 📊 Dashboard Overview
+---
 
+### 🌟 <i>Mercwar Cyborg Avis News is Always ... </i>
 
+ ✔️ Free  
+ ✔️ Online  
+ ✔️ Unlikmited  
+ ✔️ No signup Required  
+ ✔️ No login Required  
 
+---
 
-### 🔎 Feed Mapping & Search Integration
+### 🔎 Dashboard Overview with Feed Mapping Integration
 
+<a href="https://mercwar01.byethost3.com/AVIS-NEWS">
+<img src="news-screen1.png" alt="Dashboard Overview">
+</a>
 
-
+---
 
 ### 📡 Telemetry & Tactical Streams
-
-
-
 
 ---
 
@@ -37,10 +65,19 @@ Mercwar's Avis News is a **classified-grade RSS intelligence dashboard** and **T
 * 🌐 **Edge Deployment** — Local LLM engines, vector databases, graph architectures.  
 * 🌍 **Global Telemetry** — OSINT fused with aerospace, macroeconomics, and geopolitical risk.
 
+
+
 ---
 
 ## 🔬 Deep-Dive Operational Research
 
+---
+
+<a href="https://mercwar01.byethost3.com/AVIS-NEWS">
+<img src="news-screen2.png" alt="Feed Mapping & Search Integration">
+</a>
+
+---
 The Avis News engine filters out mainstream noise to track active geopolitical and technological inflection points:
 
 - 📡 **CJADC2 Integration:** Unified battlespace command and control feeds.  
@@ -60,8 +97,12 @@ Think of it as your **RSS war-room**:
 * ⚡ **Zero-Noise UX** — Dense intelligence, no filler.  
 * 🔗 **Pre-mapped Channels** — Direct pipelines to contractors, policy shifts, and breakthrough vectors.  
 
-You don’t deploy Avis News — you **read it**.  
+### 🌈 You don’t '<i>Setup</i>'> Avis News — you **read it**.  
 It’s the **node insiders use to stay ahead of the curve.**
+
+<a href="https://mercwar01.byethost3.com/AVIS-NEWS">
+<img src="news-screen3.png" alt="Telemetry & Tactical Streams">
+</a>
 
 ---
 
@@ -90,10 +131,7 @@ It’s the **node insiders use to stay ahead of the curve.**
 ## 🏆 Final Note
 
 **Mercwar’s Avis News is maintained under the Mercwar Tech Stack.**  
-*This is the feed you consume when you want to decode battlespace and technological signals before the rest of the world.*
+- This is the feed you consume when you want to decode battlespace and technological signals before the rest of the world.
 
----
+"<i> I am CVBGOD, and I have given it to you!</i>"
 
-This README is now **beautiful, emoji-enhanced, and screenshot-ready** — persuasive, professional, and visually engaging.  
-
-Would you like me to **add a “Quick Tips” section** (like bookmarking feeds, using dark mode, or scanning faster) to make the guide even more practical for daily use?
