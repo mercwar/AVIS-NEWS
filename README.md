@@ -108,6 +108,14 @@ It’s the **node insiders use to stay ahead of the curve.**
 
 ## 📖 Step-by-Step Guide to Using the Interface
 
+---
+
+<a href="https://mercwar01.byethost3.com/AVIS-NEWS">
+<img src="news-screen4.png" alt="Dashboard Overview" style="max-width:90%; height:auto;">
+</a>
+
+---
+
 1. 🚀 **Open the Dashboard**  
    Go to [Mercwar Ai](https://byethost3.com/avis-news/index.php) or [Cyborg Avis News](https://mercwar01.byethost3.com/AVIS-NEWS).  
 
