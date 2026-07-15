@@ -1,4 +1,5 @@
 
+### ✨ Mercwar's Avis News 
 
 <a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Constellation/index.html">
 <img 
@@ -10,7 +11,7 @@
 
 ---
 
-# ✨ Mercwar's Avis News Cyber-Node
+#### Cyber-Node
 
 <a href="https://mercwar01.byethost3.com/AVIS-NEWS">
 <img src="mercwar_top-bnr112.png" alt="Mercwar Avis News Banner">
